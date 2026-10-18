@@ -3,10 +3,14 @@
 <p align="left">
 name: Samir Shinde<br>
 located_in: Pune, India<br>
-current_status: Student & Self-Taught Developer<br><br>
+current_status: **GitHub Bio**
+
+Frontend Engineer | React.js • TypeScript • Python • LangChain | Building AI-powered web applications and integrating LLMs into modern frontend experiences.<br><br>
 
 areas_of_expertise:<br>
+- 🌐 Software Engineer<br>
 - 🌐 Java Development<br>
+- 🌐 front end developer<br>
 - 🌐 Full-Stack Web Development<br><br>
 
 currently_building:<br>
